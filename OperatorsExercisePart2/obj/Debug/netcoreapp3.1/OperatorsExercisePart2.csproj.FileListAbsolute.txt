@@ -1,0 +1,13 @@
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\bin\Debug\netcoreapp3.1\OperatorsExercisePart2.exe
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\bin\Debug\netcoreapp3.1\OperatorsExercisePart2.deps.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\bin\Debug\netcoreapp3.1\OperatorsExercisePart2.runtimeconfig.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\bin\Debug\netcoreapp3.1\OperatorsExercisePart2.runtimeconfig.dev.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\bin\Debug\netcoreapp3.1\OperatorsExercisePart2.dll
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\bin\Debug\netcoreapp3.1\OperatorsExercisePart2.pdb
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\obj\Debug\netcoreapp3.1\OperatorsExercisePart2.csproj.AssemblyReference.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\obj\Debug\netcoreapp3.1\OperatorsExercisePart2.AssemblyInfoInputs.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\obj\Debug\netcoreapp3.1\OperatorsExercisePart2.AssemblyInfo.cs
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\obj\Debug\netcoreapp3.1\OperatorsExercisePart2.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\obj\Debug\netcoreapp3.1\OperatorsExercisePart2.dll
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\obj\Debug\netcoreapp3.1\OperatorsExercisePart2.pdb
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\OperatorsExercisePart2\OperatorsExercisePart2\obj\Debug\netcoreapp3.1\OperatorsExercisePart2.genruntimeconfig.cache
