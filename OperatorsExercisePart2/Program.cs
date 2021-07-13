@@ -9,10 +9,10 @@ namespace OperatorsExercisePart2
             Console.WriteLine("What is the radius of your circle?");
             var radius = double.Parse(Console.ReadLine());
             
-            Console.WriteLine($"The area of a circle with a radius of {radius} is {AreaOfCircle((int)radius)}.");
+            Console.WriteLine($"The area of a circle with a radius of {radius} is {Program.AreaOfCircle(radius)}.");
         }
 
-        public static double AreaOfCircle(int radius)
+        public static double AreaOfCircle(double radius)
         {
             double area = (Math.PI * radius * radius);
             return area;
